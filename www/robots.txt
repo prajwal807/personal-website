@@ -1,0 +1,3 @@
+Sitemap: http://prajwal.great-site.net/sitemap.xml
+User-agent: *
+Disallow:
